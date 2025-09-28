@@ -6,3 +6,7 @@ ______HOW TO RUN______
 5. Set brush size to same as scale (Max 2 px and 2 scale)
 6. Run and prey it somehow works, im just learning so....
 
+
+
+https://github.com/user-attachments/assets/2cba6a9f-ac9e-4d25-a076-822c0781120f
+
